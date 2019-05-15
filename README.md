@@ -1,2 +1,2 @@
-# urban-theme
-Ryuzine theme with a Windows Metro feel.
+# urban
+Ryuzine theme with a Windows Metro look.
